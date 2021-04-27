@@ -39,6 +39,6 @@
 ## 3.作业三
 纯手打制作了一个关于动漫角色——蕾姆的简单介绍首页，可以通过目录链接到百科了解更多信息
 
-[搜索网页](https://Gee-rem.github.io/蕾姆介绍.html)
+[蕾姆介绍](https://Gee-rem.github.io/蕾姆介绍.html)
 
 
